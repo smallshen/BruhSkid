@@ -129,6 +129,18 @@ recaf 里删除相关调用代码即可, 注意保持 jvm stack ! recaf 的 stac
 
 
 
+# Credits
+
+Han: for finding out the backdoor
+
+Zenhao: for writing such a bad client
+
+Killred: Thank God eskid is not that good in this case
+
+Col-E: recaf is cool
+
+blablabla I can't think more.
+
 
 
 
